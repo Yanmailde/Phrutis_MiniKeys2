@@ -1,7 +1,9 @@
 # MiniKeys2
 The program is based on the new [Secp](https://github.com/kpurens/CudaBrainSecp) algorithm, which gives a x20 times speed increase.</br>
 
-This is the fastest public program to find old Serie1 minikeys (22 characters) in the world.
+![Serie1 coins](https://user-images.githubusercontent.com/82582647/185912181-afcef4e1-2c4b-4be1-be52-1e5d5a14511c.png)
+
+This is the fastest program to find old Serie1 minikeys (22 characters) in the world.
 
 ## Quick start
 
@@ -11,17 +13,17 @@ Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100
 
 ### Extra options
 
--d ? -> Card number</br>
--a ? -> Name of BTC address database 1.., 3.., bc... on a new line</br>
--id ? -> Telegram bot chat number</br>
--bot ? -> bot token (create your bot)</br>
+-d ? - Card number</br>
+-a ? - Name of BTC address database 1.., 3.., bc... on a new line</br>
+-id ? - Telegram bot chat number</br>
+-bot ? - bot token (create your bot)</br>
 -test (Checking the operation of FOUND and sending a message to you in telegram)</br>
 1Cdr4SMTmm4ViY5nZdrygJ2xAJ1qVi41oM</br>
 1NiNKjngcQBnCyw9VZZMa6cW2ngku6KM7G</br>
 3E8VWzznxTpesgXoAT24wxsD4fUgHJeSNd</br>
 bc1qackhakrjwspscnmsdl93ayrxt52plug8ffjjep</br>
-To test, add one of these addresses (or all) to the database, use 18 bits</br>
-Run a quick test:</br>
+To test, add one of these addresses (or all) to the database</br>
+Run a quick test (18 bits):</br>
 ```MiniKeys2-20xx.exe -bits 18 -a addresses.txt -id 123456789 -bot 1122334455:ABG5X3XU0upZQ8ELkR-EYR9C4OfBEVHBFKQ -d 0 -test```</br></br>
 ![test-bot](https://user-images.githubusercontent.com/82582647/185806061-4c7d3471-98d6-4a61-ae9c-83e6c96936c8.png)
 
@@ -33,7 +35,7 @@ Run a quick test:</br>
 | A100       | 26       | 12 Gkeys |
 | A6000      | 25       | 11 Gkeys |
 | 3090       | 25       | 10 Gkeys |
-| 3080 Ti    | 24       | 10 Gkeys  |
+| 3080 Ti    | 24       | 10 Gkeys |
 | 3080       | 24       | ? Gkeys  |
 | 3070 Ti    | 24       | ? Gkeys  |
 | 3070       | 24       | ? Gkeys  |
