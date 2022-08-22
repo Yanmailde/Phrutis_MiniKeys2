@@ -27,7 +27,7 @@ Run a quick test (18 bits):</br>
 ```MiniKeys2-20xx.exe -bits 18 -a addresses.txt -id 123456789 -bot 1122334455:ABG5X3XU0upZQ8ELkR-EYR9C4OfBEVHBFKQ -d 0 -test```</br></br>
 ![test-bot](https://user-images.githubusercontent.com/82582647/185806061-4c7d3471-98d6-4a61-ae9c-83e6c96936c8.png)
 
-| Minikeys GPU Speed |
+| Minikeys2 GPU Speed |
 |---------------------------|
 
 | GPU card   | -bits    | Speed    |
@@ -60,10 +60,10 @@ Run a quick test:</br>
 
 | GPU card   | -bits    | Speed    |
 |------------|----------|----------|
-| A100       | 26       | 12 Gkeys |
-| A6000      | 25       | 11 Gkeys |
-| 3090       | 25       | 10 Gkeys |
-| 3080 Ti    | 23       | 10 Gkeys  |
+| A100       | 26       | ? Gkeys |
+| A6000      | 25       | ? Gkeys |
+| 3090       | 25       | ? Gkeys |
+| 3080 Ti    | 23       | ? Gkeys  |
 | 3080       | 23       | ? Gkeys  |
 | 3070 Ti    | 23       | ? Gkeys  |
 | 3070       | 23       | ? Gkeys  |
