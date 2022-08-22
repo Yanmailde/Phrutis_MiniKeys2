@@ -1,12 +1,15 @@
-# :coin: MiniKeys2 :coin:
-The program is based on the new [Secp](https://github.com/kpurens/CudaBrainSecp) algorithm, which gives a x20 times speed increase.
+# MiniKeys2
+The program is based on the new [Secp](https://github.com/kpurens/CudaBrainSecp) algorithm, which gives a x20 times speed increase.</br>
 
-## :rocket: MODE 1
 This is the fastest public program to find old Serie1 minikeys (22 characters) in the world.
+
+## Quick start
 
 Run: ```MiniKeys2-20xx.exe -bits 24 -a addresses.txt -d 0``` (For RTX 2070, 2080)</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 0``` (For RTX 3060, 3070, 3080)</br>
 Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100, A5000, A6000)<hr>
+
+### Extra options
 
 -d ? -> Card number</br>
 -a ? -> Name of BTC address database 1.., 3.., bc... on a new line</br>
@@ -142,7 +145,7 @@ Random example:</br>
 SGayRrR... -> SGayRrT...</br>
 SavdEee... -> SavdEef...</br></br>
 
-## :rocket: MODE 2 (FULL Random)
+### FULL Random
 
 S...... -> sha256 = private key.</br>
 Each private key output from sha256 is unique. It is 100% random and valid.</br>
@@ -194,10 +197,6 @@ How many physical coins were issued and which ones?</br>
 
 How to switch between mode 1 and mode 2 ?</br>
 
-The program works in two modes at once.</br>
-1st minikeys</br>
-2nd full random x2<hr>
-
 Does the program require an internet connection?</br>
 If you use a telegram bot - Yes</br>
 If you just search, you don't need internet.<hr>
@@ -230,6 +229,12 @@ These are new coins (2013)</br>
 Very large search range.</br>
 Many coins are nominal, the amounts are small.</br>
 They can also be found in mode 2.<hr>
+
+How to find out that the program has found the key?</br>
+
+A message about the find will appear in the program window.</br>
+The program will also write the address and key to the text file FOUND.txt</br>
+If a telegram bot is connected, it will send you a message.<hr>
 
 How to create a bot and get id ?</br>
 
