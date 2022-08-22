@@ -1,5 +1,7 @@
 # Linux
 
+![A6000](https://user-images.githubusercontent.com/82582647/185991427-e2a4997d-311e-4556-9ecd-31fb5340be77.png)
+
 - ```MiniKeys-20xx``` - v1.0 For RTX 20xx</br>
 - ```MiniKeys``` - v1.0 For RTX 30xx
 
