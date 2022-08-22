@@ -1,5 +1,7 @@
 ## Windows v1.0
 
+One gpu need 4-6 GB of RAM!
+
 For RTX 2070, 2080</br>
 Run: ```MiniKeys2-20xx.exe -bits 24 -a addresses.txt -d 0```
 
