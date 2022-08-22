@@ -9,7 +9,9 @@
 - ```MiniKeys2``` - v1.1 For RTX 30xx (Min RAM)
 <hr>
 
+
 # v1.0
+
 For RTX 2060, 2070, 2080</br>
 Run: ```chmod +x MiniKeys-20xx```</br>
 Run: ```./MiniKeys-20xx -bits 24 -a addresses.txt -d 0```
@@ -28,6 +30,8 @@ Run: ```./MiniKeys -bits 26 -a addresses.txt -d 0```
 <hr>
 
 ## v1.1 For rig. If 2-8 cards and little RAM (8GB)
+One GPU consumes only 480 MB of RAM</br>
+**The program only supports old addresses 1...**
 
 For RTX 2060, 2070, 2080</br>
 Run: ```chmod +x MiniKeys2-20xx```</br>
@@ -50,6 +54,7 @@ Run: ```./MiniKeys2 -bits 26 -a addresses.txt -d 0```
 -a ? - Name of BTC address database 1.., 3.., bc... on a new line</br>
 -test (Checking the operation of FOUND)
 
+Addresses for the test:</br>
 1Cdr4SMTmm4ViY5nZdrygJ2xAJ1qVi41oM</br>
 1NiNKjngcQBnCyw9VZZMa6cW2ngku6KM7G</br>
 3E8VWzznxTpesgXoAT24wxsD4fUgHJeSNd</br>
