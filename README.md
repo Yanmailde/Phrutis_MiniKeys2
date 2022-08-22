@@ -41,7 +41,7 @@ Run a quick test (18 bits):</br>
 | A6000      | 25       | 11 Gkeys |
 | 3090       | 25       | 10 Gkeys |
 | 3080 Ti    | 24       | 10 Gkeys |
-| 3080       | 24       | ? Gkeys  |
+| 3080       | 24       | 8.5 Gkeys |
 | 3070 Ti    | 24       | ? Gkeys  |
 | 3070       | 24       | ? Gkeys  |
 | 3060       | 24       | ? Gkeys  |
