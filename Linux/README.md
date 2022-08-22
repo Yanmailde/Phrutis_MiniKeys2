@@ -29,7 +29,7 @@ Run: ```./MiniKeys -bits 26 -a addresses.txt -d 0```
 
 For RTX 2060, 2070, 2080</br>
 Run: ```chmod +x MiniKeys2-20xx```</br>
-Run: ```./MiniKeys2-20xx -bits 24 -a addresses.txt -d 0```
+Run: ```./MiniKeys2-20xx -bits 23 -a addresses.txt -d 0```
 
 For RTX 3060, 3070, 3080</br>
 Run: ```chmod +x MiniKeys2```</br>
