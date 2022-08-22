@@ -7,7 +7,7 @@
 - ```MiniKeys2``` - v1.1 For RTX 30xx (Min RAM)
 <hr>
 
-
+# v1.0
 For RTX 2060, 2070, 2080</br>
 Run: ```chmod +x MiniKeys-20xx```</br>
 Run: ```./MiniKeys-20xx -bits 24 -a addresses.txt -d 0```
@@ -25,7 +25,7 @@ Run: ```chmod +x MiniKeys```</br>
 Run: ```./MiniKeys -bits 26 -a addresses.txt -d 0```
 <hr>
 
-### v1.1 - If 2-8 cards and little RAM (8GB)
+## v1.1 For rig. If 2-8 cards and little RAM (8GB)
 
 For RTX 2060, 2070, 2080</br>
 Run: ```chmod +x MiniKeys2-20xx```</br>
