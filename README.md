@@ -37,14 +37,15 @@ Run a quick test (18 bits):</br>
 
 | GPU card   | -bits    | Speed    |
 |------------|----------|----------|
-| A100       | 26       | 12 Gkeys |
-| A6000      | 25       | 11 Gkeys |
+| A100       | 26       | 11 Gkeys |
+| A6000      | 26       | 10 Gkeys |
 | 3090       | 25       | 10 Gkeys |
 | 3080 Ti    | 24       | 10 Gkeys |
 | 3080       | 24       | 8.5 Gkeys |
 | 3070 Ti    | 24       | ? Gkeys  |
 | 3070       | 24       | ? Gkeys  |
 | 3060       | 24       | ? Gkeys  |
+| 2080 Ti    | 24       | 5 Gkeys  |
 | 2080 S     | 24       | ? Gkeys  |
 | 2070       | 24       | 2 Gkeys  |
 
@@ -65,22 +66,6 @@ Run: ```M30xx.exe -bits 25 -a addresses.txt -d 0```</br></br>
 Run a quick test:</br>
 ```M30xx.exe -bits 18 -a addresses.txt -d 0 -test```</br></br>
 ![v1.1](https://user-images.githubusercontent.com/82582647/185807241-0a4b8a62-fb24-47f8-bf31-4d97ad8789e9.png)
-
-| M20xx, M30xx GPU Speed |
-|---------------------------|
-
-| GPU card   | -bits    | Speed    |
-|------------|----------|----------|
-| A100       | 26       | ? Gkeys |
-| A6000      | 25       | ? Gkeys |
-| 3090       | 25       | ? Gkeys |
-| 3080 Ti    | 23       | ? Gkeys  |
-| 3080       | 23       | ? Gkeys  |
-| 3070 Ti    | 23       | ? Gkeys  |
-| 3070       | 23       | ? Gkeys  |
-| 3060       | 23       | ? Gkeys  |
-| 2080 S     | 23       | ? Gkeys  |
-| 2070       | 23       | 2.2 Gkeys  |
 
 ## :wrench: How it works?
 [**Read more about TURBO+ and Random modes**](https://github.com/phrutis/MiniKeys2/blob/main/Others/work.md)
