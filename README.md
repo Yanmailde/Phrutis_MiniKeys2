@@ -40,7 +40,7 @@ Run a quick test:</br>
 | A100       | 26       | 12 Gkeys |
 | A6000      | 25       | 11 Gkeys |
 | 3090       | 25       | 10 Gkeys |
-| 3080 Ti    | 24       | ? Gkeys  |
+| 3080 Ti    | 24       | 10 Gkeys  |
 | 3080       | 24       | ? Gkeys  |
 | 3070 Ti    | 24       | ? Gkeys  |
 | 3070       | 24       | ? Gkeys  |
