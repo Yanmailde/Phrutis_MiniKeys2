@@ -171,30 +171,7 @@ The payment is based on trust.</br>
 If the amount is large and there is no trust, you can fly to Belarus Minsk and meet in person.</br>
 Import and send coins will be in your presence at the hotel.<hr>
 
-What is rated speed?</br>
-
-The RTX 3090 can process max 180,000,000 minikeys (private keys) per second.</br>
-Since invalid private keys after validation ? == 00 are skipped, which increases the speed.</br>
-Example</br>
-10,000,000,000 (mini-keys) private keys were processed, of which only</br>
-180,000,000 turned out to be valid and went through the full cycle of the private key -> address algorithm.</br>
-The remaining 9,820,000,000 were skipped in the first stage.</br>
-For clarity, let's take a minikey</br>
-SkK5VPtmTm3mQKYaJQFRZP his private key f30c1ddd12ea91bd35d5d1b83eac611717d99da826f207c3c3d4839e271648cb</br>
-To check the validity of the minikey, you need to add "?"</br>
-SkK5VPtmTm3mQKYaJQFRZP? -> sha256 = 00442b142a40eefcd894b0bb6f19c58284f2e7248cee7e4910cd37afbfc7879a</br>
-If the output private key starts with 00...., then</br>
-The minikey (without the ?) is valid and needs to be processed.</br>
-If you change one letter of the minikey and add "?" you don't get a private key that starts with 00....</br>
-According to statistics, only 1 key out of 50-60 will be valid.<hr>
-
-When FOUND is triggered, the last position of the minikey is visible.</br>
-I will pass in Fialka M-125 7 characters and will not share with you.</br>
-
-The toolbar displays a part of the random key that is not included in the search.</br>
-This was done for the visual process of the program.<hr>
-
-I didn't find the answer to my question<hr>
+I didn't find the answer to my question</br>
 
 Write your question [**HERE**](https://github.com/phrutis/MiniKeys2/issues)<hr>
 
