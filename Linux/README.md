@@ -38,7 +38,7 @@ Run: ```chmod +x MiniKeys2```</br>
 Run: ```./MiniKeys2 -bits 23 -a addresses.txt -d 0```
 
 For RTX 3090</br>
-Run: ```chmod +x MiniKeys2```
+Run: ```chmod +x MiniKeys2```</br>
 Run: ```./MiniKeys2 -bits 25 -a addresses.txt -d 0```
 
 For RTX A100, A5000, A6000</br>
