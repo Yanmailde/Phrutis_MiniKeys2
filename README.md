@@ -25,17 +25,7 @@ Run a quick test:</br>
 ```MiniKeys2-20xx.exe -bits 18 -a addresses.txt -id 123456789 -bot 1122334455:ABG5X3XU0upZQ8ELkR-EYR9C4OfBEVHBFKQ -d 0 -test```</br></br>
 ![test-bot](https://user-images.githubusercontent.com/82582647/185806061-4c7d3471-98d6-4a61-ae9c-83e6c96936c8.png)
 
-### Special version 1.1 for rigs with a lot of cards and little RAM (8 GB)
-One GPU consumes 480 MB of RAM</br>
-The program only supports old addresses 1..</br>
-Everything else is the same as in the standard program v1.0</br>
-Run: ```M20xx.exe -bits 23 -a addresses.txt -d 0``` (For RTX 2070, 2080)</br>
-Run: ```M30xx.exe -bits 23 -a addresses.txt -d 0``` (For RTX 3060, 3070, 3080)</br>
-Run: ```M30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100, A5000, A6000)</br></br>
-Run a quick test:</br>
-```M30xx.exe -bits 18 -a addresses.txt -d 0 -test```</br></br>
-![v1.1](https://user-images.githubusercontent.com/82582647/185807241-0a4b8a62-fb24-47f8-bf31-4d97ad8789e9.png)
-| MiniKeys2 GPU Speed table |
+| Minikeys GPU Speed |
 |---------------------------|
 
 | GPU card   | -bits    | Speed    |
@@ -50,6 +40,34 @@ Run a quick test:</br>
 | 3060       | 24       | ? Gkeys  |
 | 2080 S     | 24       | ? Gkeys  |
 | 2070       | 24       | 2 Gkeys  |
+
+## Special version 1.1 
+For rigs with a lot of cards and little RAM (8 GB)
+One GPU consumes 480 MB of RAM</br>
+The program only supports old addresses 1..</br>
+Everything else is the same as in the standard program v1.0</br>
+Run: ```M20xx.exe -bits 23 -a addresses.txt -d 0``` (For RTX 2070, 2080)</br>
+Run: ```M30xx.exe -bits 23 -a addresses.txt -d 0``` (For RTX 3060, 3070, 3080)</br>
+Run: ```M30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100, A5000, A6000)</br></br>
+Run a quick test:</br>
+```M30xx.exe -bits 18 -a addresses.txt -d 0 -test```</br></br>
+![v1.1](https://user-images.githubusercontent.com/82582647/185807241-0a4b8a62-fb24-47f8-bf31-4d97ad8789e9.png)
+
+| M20xx, M30xx GPU Speed |
+|---------------------------|
+
+| GPU card   | -bits    | Speed    |
+|------------|----------|----------|
+| A100       | 26       | 12 Gkeys |
+| A6000      | 25       | 11 Gkeys |
+| 3090       | 25       | 10 Gkeys |
+| 3080 Ti    | 23       | 10 Gkeys  |
+| 3080       | 23       | ? Gkeys  |
+| 3070 Ti    | 23       | ? Gkeys  |
+| 3070       | 23       | ? Gkeys  |
+| 3060       | 23       | ? Gkeys  |
+| 2080 S     | 23       | ? Gkeys  |
+| 2070       | 23       | 2.2 Gkeys  |
 
 ## :wrench: How it works
 RTX 3090 Program Rated Speed = 180,000,000/s
