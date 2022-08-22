@@ -5,9 +5,14 @@ This is the fastest program to find old Serie1 minikeys in the world.
 
 ## Quick start
 
-Run: ```MiniKeys2-20xx.exe -bits 24 -a addresses.txt -d 0``` (For RTX 2070, 2080)</br>
-Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 0``` (For RTX 3060, 3070, 3080)</br>
-Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100, A5000, A6000)<hr>
+For RTX 2070, 2080</br>
+Run: ```MiniKeys2-20xx.exe -bits 24 -a addresses.txt -d 0```</br>
+
+For RTX 3060, 3070, 3080</br>
+Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 0```</br>
+
+For RTX 3090, A100, A5000, A6000</br>
+Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0```<hr>
 
 ### Extra options
 
@@ -16,11 +21,13 @@ Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100
 -id ? - Telegram bot chat number</br>
 -bot ? - bot token (create your bot)</br>
 -test (Checking the operation of FOUND and sending a message to you in telegram)</br>
+
 1Cdr4SMTmm4ViY5nZdrygJ2xAJ1qVi41oM</br>
 1NiNKjngcQBnCyw9VZZMa6cW2ngku6KM7G</br>
 3E8VWzznxTpesgXoAT24wxsD4fUgHJeSNd</br>
 bc1qackhakrjwspscnmsdl93ayrxt52plug8ffjjep</br>
-To test, add one of these addresses (or all) to the database</br>
+
+To test, add one of these address (or all) to the database</br>
 Run a quick test (18 bits):</br>
 ```MiniKeys2-20xx.exe -bits 18 -a addresses.txt -id 123456789 -bot 1122334455:ABG5X3XU0upZQ8ELkR-EYR9C4OfBEVHBFKQ -d 0 -test```</br></br>
 ![test-bot](https://user-images.githubusercontent.com/82582647/185806061-4c7d3471-98d6-4a61-ae9c-83e6c96936c8.png)
@@ -42,13 +49,19 @@ Run a quick test (18 bits):</br>
 | 2070       | 24       | 2 Gkeys  |
 
 ## Special version 1.1 
-For rigs with a lot of cards and little RAM (8 GB)
-One GPU consumes 480 MB of RAM</br>
+For rigs with a lot of cards and little RAM (8 GB)</br>
+One GPU consumes only 480 MB of RAM</br>
 The program only supports old addresses 1..</br>
 Everything else is the same as in the standard program v1.0</br>
-Run: ```M20xx.exe -bits 23 -a addresses.txt -d 0``` (For RTX 2070, 2080)</br>
-Run: ```M30xx.exe -bits 23 -a addresses.txt -d 0``` (For RTX 3060, 3070, 3080)</br>
-Run: ```M30xx.exe -bits 25 -a addresses.txt -d 0``` (For RTX 3090, A100, A5000, A6000)</br></br>
+
+For RTX 2070, 2080</br>
+Run: ```M20xx.exe -bits 23 -a addresses.txt -d 0```</br>
+
+For RTX 3060, 3070, 3080</br>
+Run: ```M30xx.exe -bits 23 -a addresses.txt -d 0```</br>
+
+For RTX 3090, A100, A5000, A6000</br>
+Run: ```M30xx.exe -bits 25 -a addresses.txt -d 0```</br></br>
 Run a quick test:</br>
 ```M30xx.exe -bits 18 -a addresses.txt -d 0 -test```</br></br>
 ![v1.1](https://user-images.githubusercontent.com/82582647/185807241-0a4b8a62-fb24-47f8-bf31-4d97ad8789e9.png)
@@ -70,12 +83,12 @@ Run a quick test:</br>
 | 2070       | 23       | 2.2 Gkeys  |
 
 ## :wrench: How it works
-RTX 3090 Program Rated Speed = 180,000,000/s
+RTX 3090 Speed = 180,000,000/s
 
-By checking the [validity of keys](https://en.bitcoin.it/wiki/Mini_private_key_format)</br>
-if (private_key[0] == 00) { speed increased to 10,000,000,000/s }</br>
+By checking the [validity of keys](https://en.bitcoin.it/wiki/Mini_private_key_format),speed increased to 10,000,000,000/s</br>
 
-Number of minikeys Serie1 = 4907 Denomination of coins 1, 5, 10, 25, 500, 1000 BTC</br>
+Number of minikeys Serie1 = 4907</br> 
+Denomination of coins 1, 5, 10, 25, 500, 1000 BTC</br>
 
 In 2011-2012 bitcoin was worth cents.</br>
 The coins did not provide crypto value.</br>
