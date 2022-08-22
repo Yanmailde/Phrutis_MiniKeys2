@@ -195,8 +195,6 @@ How many physical coins were issued and which ones?</br>
 
 61,560 coins. List of all addresses from coins and other information [**HERE**](https://raw.githubusercontent.com/phrutis/MiniKeys2/main/Others/Fullist.txt)<hr> 
 
-How to switch between mode 1 and mode 2 ?</br>
-
 Does the program require an internet connection?</br>
 If you use a telegram bot - Yes</br>
 If you just search, you don't need internet.<hr>
@@ -220,8 +218,10 @@ Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 0```</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 1```</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 2```</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 3```</br>
-Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 4```<hr>
-
+Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 4```</br></br>
+To run one gpu in ```MiniKeys2``` you need 4-6 GB of RAM!</br>
+If you are low on RAM, use the ```M30xx``` program.</br>
+It only needs 500 MB of RAM to run.<hr>
 
 Why didn't you do a Serie2 30 character minikey search?</br>
 
