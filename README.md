@@ -230,6 +230,15 @@ Does the program require an internet connection?</br>
 If you use a telegram bot - Yes</br>
 If you just search, you don't need internet.<hr>
 
+I launched the program hung (froze) what should I do?</br>
+
+The program needs time to create the table.</br>
+Wait for start:</br>
+For 23 bits = 20 minutes</br>
+For 24 bits = 25 minutes</br>
+For 25 bits = 35 minutes</br>
+For 26 bits = 45 minutes<hr>
+
 If I find the private key can I take all the coins for myself?</br>
 
 No, you will find the encrypted key.</br>
