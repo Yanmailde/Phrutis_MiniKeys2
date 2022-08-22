@@ -37,9 +37,9 @@ Run a quick test:</br>
 
 | GPU card   | -bits    | Speed    |
 |------------|----------|----------|
-| A100       | 26       | ? Gkeys  |
-| A6000      | 25       | ? Gkeys  |
-| 3090       | 25       | ? Gkeys  |
+| A100       | 26       | 12 Gkeys |
+| A6000      | 25       | 11 Gkeys |
+| 3090       | 25       | 10 Gkeys |
 | 3080 Ti    | 24       | ? Gkeys  |
 | 3080       | 24       | ? Gkeys  |
 | 3070 Ti    | 24       | ? Gkeys  |
