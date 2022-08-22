@@ -215,7 +215,7 @@ After searching, you can install new drivers.<hr>
 
 I have many GPUs. How to start?
 
-Run each GPU separately with a new range Add your card id -d ?</br>
+Run each GPU separately. Add your card id -d ?</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 0```</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 1```</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 2```</br>
