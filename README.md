@@ -192,6 +192,12 @@ How many physical coins were issued and which ones?</br>
 
 61,560 coins. List of all addresses from coins and other information [**HERE**](https://raw.githubusercontent.com/phrutis/MiniKeys2/main/Others/Fullist.txt)<hr> 
 
+How to switch between mode 1 and mode 2 ?</br>
+
+The program works in two modes at once.</br>
+1st minikeys</br>
+2nd full random x2<hr>
+
 Does the program require an internet connection?</br>
 If you use a telegram bot - Yes</br>
 If you just search, you don't need internet.<hr>
