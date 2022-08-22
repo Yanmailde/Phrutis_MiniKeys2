@@ -228,7 +228,7 @@ Why didn't you do a Serie2 30 character minikey search?</br>
 These are new coins (2013)</br>
 Very large search range.</br>
 Many coins are nominal, the amounts are small.</br>
-They can also be found in mode 2.<hr>
+They can also be found in random.<hr>
 
 How to find out that the program has found the key?</br>
 
