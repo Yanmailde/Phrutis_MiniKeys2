@@ -70,12 +70,12 @@ Where can I spend $0.08?</br>
 In 2013 you can buy pizza :)</br>
 Then the rate began to rise.</br>
 
-According to the analysis of discoveries, you can see that coins began to be opened until 2017.</br>
+According to the [**analysis**](https://casascius.uberbills.com) of discoveries, you can see that coins began to be opened until 2017.</br>
 When in 2021 the bitcoin rate peaked at 1 btc = $60,000, there were no coins discovered?!</br>
 This suggests one thing, all possible (available) coins have already been discovered previously.</br>
 
 After 2017, there were only 6 coins discovered!</br>
-12/31/2020, 12/31/2021 6 coins were opened, of which 3 coins are Serie1 and 3 are new coins (Serie2 30 symbols)</br>
+31.12.2020 and 31.12.2021 [**6 coins were opened**](https://casascius.uberbills.com/?status=opened), of which 3 coins are Serie1 and 3 are new coins (Serie2 30 symbols)</br>
 Based on these assumptions, we can conclude that 95% (out of 4907) Serie1 coins are losses.</br>
 5% are possibly used as collectibles.</br>
 
