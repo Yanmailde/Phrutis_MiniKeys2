@@ -93,7 +93,7 @@ When in 2021 the bitcoin rate peaked at 1 btc = $60,000, there were no coins dis
 This suggests one thing, all possible (available) coins have already been discovered previously.</br>
 
 After 2017, there were only 6 coins discovered!</br>
-31.12.2020 and 31.12.2021 [**6 coins were opened**](https://casascius.uberbills.com/?status=opened), of which 3 coins are Serie1 and 3 are new coins (Serie2 30 symbols)</br>
+31.12.2020 and 31.12.2021 [**6 coins were opened**](https://casascius.uberbills.com/?status=opened), of which 3 coins are Serie1 and 3 coins Serie2</br>
 Based on these assumptions, we can conclude that 95% (out of 4907) Serie1 coins are losses.</br>
 5% are possibly used as collectibles.</br>
 
