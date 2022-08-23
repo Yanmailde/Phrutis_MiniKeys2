@@ -195,11 +195,11 @@ Possible collision hex160 (rimpd160)</br>
 Since the range of hashes160 is 160 bits, and private keys are 256 bits.</br>
 
 One address from the database (hash160) =</br> 
-79,228,162,514,264,337,593,543,950,336 private keys in 256 bits range in compressed mode.</br>
-+ 79.228.162.514.264.337.593.543.950.336 in uncompressed mode.</br>
+79,228,162,514,264,337,593,543,950,336 private keys in 256 bits range compressed mode.</br>
++79.228.162.514.264.337.593.543.950.336 uncompressed mode.</br>
 
 We get a total of 158,456,325,028,528,675,187,087,900,672 private keys that correspond to one address in range 256 bits.</br>
-There are more than 17,000,000 addresses in the database.</br>
+There are more than 17,000,000+ addresses in the database.</br>
 
 **This is all in theory, in practice these are very large ranges, you only need to hope for luck.**
 
