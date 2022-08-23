@@ -1,9 +1,9 @@
 # MiniKeys2
 ![Serie1 coins](https://user-images.githubusercontent.com/82582647/185912181-afcef4e1-2c4b-4be1-be52-1e5d5a14511c.png)
 
-:trophy: This is the fastest program to find old Serie1 minikeys in the world.
+This is the fastest program to find old Serie1 minikeys in the world :trophy:
 
-## Quick start
+## :zap: Quick start
 
 For RTX 2070, 2080</br>
 Run: ```MiniKeys2-20xx.exe -bits 24 -a addresses.txt -d 0```</br>
@@ -12,7 +12,10 @@ For RTX 3060, 3070, 3080</br>
 Run: ```MiniKeys2-30xx.exe -bits 24 -a addresses.txt -d 0```</br>
 
 For RTX 3090, A100, A5000, A6000</br>
-Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0```<hr>
+Run: ```MiniKeys2-30xx.exe -bits 25 -a addresses.txt -d 0```
+
+[**To RUN Linux, Ubuntu**](https://github.com/phrutis/MiniKeys2/tree/main/Linux)
+<hr>
 
 ### :hammer_and_wrench: Extra options
 
@@ -202,7 +205,7 @@ There are more than 17,000,000 addresses in the database.</br>
 **This is all in theory, in practice these are very large ranges, you only need to hope for luck.**
 
 
-### :memo: Frequently Asked Questions<hr>
+## :memo: Frequently Asked Questions<hr>
 Where to download the program, how to run it:grey_question:</br>
 
 [**HERE**](https://github.com/phrutis/MiniKeys2/releases/tag/1.0)<hr>
