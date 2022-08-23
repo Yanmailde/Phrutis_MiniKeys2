@@ -178,7 +178,6 @@ It's just that the private key corresponds to the minikey's private key.</br>
 This is a feature of the bitcoin algorithm.</br>
 
 ## :rocket: + SPEED x2
-The main advantage of mode 2 is speed x2</br>
 The program works in two modes Uncompressed + Compressed</br>
 RTX 3090 Speed = 180,000,000 valid minikeys (random private keys) per second</br>
 Since we are searching in two modes at once, this is 180,000,000 x2 = 360,000,000 addresses per second.</br>
